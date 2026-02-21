@@ -90,7 +90,7 @@ The interactive Streamlit dashboard includes:
 ## 🗂 Project Structure
 causal-prompt-optimization-lab/
 │
-├── experiment.ipynb
+├── causal_prompt_optimization_lab.py
 ├── causal_prompt_results.csv
 ├── app.py
 ├── requirements.txt
