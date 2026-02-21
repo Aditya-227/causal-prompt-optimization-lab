@@ -7,7 +7,7 @@
 ## 🚀 Live Dashboard
 
 🔗 **Streamlit App:**  
-👉 [Open Interactive Dashboard]([YOUR_STREAMLIT_LINK_HERE](https://causal-prompt-optimization-lab-enwzey49fapzuulrvchcl3.streamlit.app/))
+👉 [Open Interactive Dashboard]([https://causal-prompt-optimization-lab-enwzey49fapzuulrvchcl3.streamlit.app/])
 
 _(Replace with your deployed Streamlit URL later.)_
 
