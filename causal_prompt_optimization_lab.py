@@ -325,13 +325,5 @@ plt.show()
 from google.colab import files
 files.download("causal_prompt_results.csv")
 
-!pip install nbformat
 
-import nbformat
-
-with open("Causal_Prompt_Optimization_Lab.ipynb") as f:
-    nb = nbformat.read(f, as_version=4)
-
-with open("clean_notebook.ipynb", "w") as f:
-    nbformat.write(nb, f)
 
