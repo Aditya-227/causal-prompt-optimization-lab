@@ -9,7 +9,6 @@
 🔗 **Streamlit App:**  
 👉 [Open Interactive Dashboard](https://causal-prompt-optimization-lab-enwzey49fapzuulrvchcl3.streamlit.app/)
 
-_(Replace with your deployed Streamlit URL later.)_
 
 ---
 
